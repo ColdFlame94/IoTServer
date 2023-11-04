@@ -1,0 +1,9 @@
+<?xml version = "1.0"?><Device_IoT>
+		<Device_ID>2</Device_ID>
+		<Name>Flood Detector</Name>
+			<Item rollno="1">
+				<Label>Alarm</Label>
+				<Option1>on</Option1>
+				<Option2>off</Option2>
+			</Item>			
+	</Device_IoT>

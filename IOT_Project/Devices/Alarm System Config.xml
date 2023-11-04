@@ -1,0 +1,15 @@
+<?xml version = "1.0"?>
+<Device_IoT>
+		<Device_ID>1</Device_ID>
+		<Name>Alarm System</Name>
+		<Item rollno="1">
+			<Label>Arming</Label>
+			<Option1>Armed</Option1>
+			<Option2>Disarmed</Option2>
+		</Item>
+		<Item rollno="2">
+			<Label>Alarm</Label>
+			<Option1>on</Option1>
+			<Option2>off</Option2>
+		</Item>
+</Device_IoT>
